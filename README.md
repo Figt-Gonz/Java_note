@@ -1,2 +1,2 @@
 # Java_note
-记录自己Java的学习过程
+记录自己 Java 的学习过程
