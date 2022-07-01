@@ -195,7 +195,7 @@ System.out.println("老师说：\"要好好学习\"");
   
   **优先级**
   
-  ![1643880828202](C:\Users\心游\AppData\Roaming\Typora\typora-user-images\1643880828202.png)
+  ![1643880828202](./1643880828202.png)
 
 #### 标识符规范
 
